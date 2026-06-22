@@ -1,5 +1,6 @@
 # React + Vite
-
+# Mortgage-calculator-
+This is a mortgage-calculator which calculates that at the end of the term of loan how you would have to pay in total ,so a person can plan before hand how much they have to set the monthly payment amount, This mortgage-calculator is made using React , HTML,CSS
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
